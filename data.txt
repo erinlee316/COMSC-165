@@ -1,0 +1,5 @@
+hats 100 12 15
+cucumbers 300 2 3
+scooters 100 45 60
+pineapples 250 2 3
+phone 100 800 1000
